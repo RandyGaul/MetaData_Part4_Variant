@@ -1,3 +1,6 @@
+// This work is licensed under a Creative Commons Attribution 3.0 Unported License.
+// http://creativecommons.org/licenses/by/3.0/deed.en_US
+
 #include "Precompiled.h"
 #include "Object.h"
 
@@ -9,9 +12,6 @@ DEFINE_META_POD( float );
 DEFINE_META_POD( bool );
 DEFINE_META_POD( double );
 DEFINE_META_POD( std::string );
-
-// This work is licensed under a Creative Commons Attribution 3.0 Unported License.
-// http://creativecommons.org/licenses/by/3.0/deed.en_US
 
 void main( void )
 {
